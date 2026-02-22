@@ -38,7 +38,7 @@
 
 
 
-!\[[Пример генерации](https://github.com/Alple23/my-bot-portfolio/blob/main/6.jpg?raw=true)](6.jpg)
+![[Пример генерации](https://github.com/Alple23/my-bot-portfolio/blob/main/6.jpg?raw=true)
 
 
 
